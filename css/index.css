@@ -1,0 +1,20 @@
+.bg-gradient-nav{
+    background: #032367;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #dad2db, #700a82);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #4b134f, #231d52); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+
+body{
+    background: #09037d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #042f95, #02237d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #01246b, #7b96ec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.card{
+    background: #09037d;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #042f95, #02237d);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #01246b, #7b96ec); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    color: white;
+}
+
+
